@@ -77,6 +77,7 @@ const Dashboard = () => {
 
     return (
         <div className='text-center'>
+           
             <LineChart 
             width={1200}
             height={300}
@@ -89,6 +90,7 @@ const Dashboard = () => {
           <YAxis />
           <Tooltip />
             </LineChart>
+            
         </div>
     );
 };
