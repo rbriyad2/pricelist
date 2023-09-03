@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "name": "Basic Membership",
+        "price": 50,
+        "fetures": ["Gym access", "locker room", "1 feetness class/week"]
+    },
+    {
+        "id":2,
+        "name": "Premium Membership",
+        "price": 60,
+        "fetures": ["Gym access", "locker room", "1 feetness class/week"]
+    },
+    {
+        "id":3,
+        "name": "Corporate Membership",
+        "price": 70,
+        "fetures": ["Gym access", "Unlimited classes", "1 feetness class/week"]
+    },
+    {
+        "id":4,
+        "name": "Old age Membership",
+        "price": 85,
+        "fetures": ["Gym access", "Unlimited classes", "1 feetness class/week"]
+    }
+
+]
